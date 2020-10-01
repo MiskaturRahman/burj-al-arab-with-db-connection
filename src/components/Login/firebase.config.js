@@ -1,10 +1,12 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyAsihSADFnF_FoZ6je8p1W9lilyqX7cHWQ",
-    authDomain: "burj-al-arab.firebaseapp.com",
-    databaseURL: "https://burj-al-arab.firebaseio.com",
-    projectId: "burj-al-arab",
-    storageBucket: "burj-al-arab.appspot.com",
-    messagingSenderId: "244522202387",
-    appId: "1:244522202387:web:f3801d0588387140e1d6e6"
-  };
-  export default firebaseConfig;
+  apiKey: "AIzaSyDmOIZhgNNKZMnuBq3MA_DgiLKLc8bx-ZA",
+  authDomain: "burj-al-arab-393b6.firebaseapp.com",
+  databaseURL: "https://burj-al-arab-393b6.firebaseio.com",
+  projectId: "burj-al-arab-393b6",
+  storageBucket: "burj-al-arab-393b6.appspot.com",
+  messagingSenderId: "883163867122",
+  appId: "1:883163867122:web:8096563d6c2d65f8376d6b",
+  measurementId: "G-TTGSY6WMYE"
+};
+export default firebaseConfig;
